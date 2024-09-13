@@ -1,0 +1,12 @@
+{
+    "description": "Personal website.",
+    "repo": "https://github.com/thisisverycool/website",
+    "owner": {
+        "username": "thisisverycool",
+        "email": "twenty48fr@outlook.com",
+        "twitter": "twenty48lol"
+    },
+    "record": {
+        "CNAME": "thisisverycool.github.io"
+    }
+} 
